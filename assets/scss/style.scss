@@ -1208,3 +1208,16 @@ to{-webkit-transform:rotate(360deg);transform:rotate(360deg);}
         width: 90px;
     }
 }
+.accordion{
+    .card{
+        .card-header{
+            background-color: #f7b743;
+            h5{
+                button{
+                    color: #ffffff;
+                    padding: 0;
+                }
+            }
+        }
+    }
+}
